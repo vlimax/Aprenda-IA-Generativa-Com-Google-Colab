@@ -52,7 +52,7 @@ Ideal para adicionar novos Notebooks ou scripts complexos:
 
 6. Abra um Pull Request no repositório original.
 
-## EM BREVE um Ebook completo e aprofundado sobre IA Generativa com Pythone Integração/Automação via n8n!
+## EM BREVE um Ebook completo e aprofundado sobre IA Generativa com Python!
 ![Capa do Livro - IA Generativa com Python](livro.png)
 ## ⚖️ Licença
 
