@@ -1,5 +1,9 @@
 # 🚀 Aprenda IA Generativa com Google Colab
-Este repositório é um guia prático sobre IA Generativa, utilizando o Google Colab como ambiente de aprendizado. Aqui você explorará conceitos fundamentais como engenharia de prompt, parâmetros de geração, embedding, RAG e bancos de dados vetorizados.
+Este repositório é um guia prático sobre IA Generativa, utilizando o Google Colab como ambiente de aprendizado e O SDK de IA do Google. 
+[Documentação SDK Gen IA Google]("https://googleapis.github.io/python-genai/")
+
+Aqui você explorará conceitos fundamentais como engenharia de prompt, parâmetros de geração, embedding, RAG e bancos de dados vetorizados, relacionados a IA Generativa e aplicá-los em projetos.
+
 ## ⚠️ Pré-requisitos
 Para acompanhar este conteúdo, é necessário:
 - Lógica de Programação: Conhecimentos básicos de algoritmos.
