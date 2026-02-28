@@ -1,5 +1,5 @@
 # 🚀 Aprenda IA Generativa com Google Colab
-Este repositório é um guia prático sobre IA Generativa, utilizando o Google Colab como ambiente de aprendizado e O SDK de IA do Google. 
+Este repositório é um guia prático sobre IA Generativa, utilizando o Google Colab como ambiente de aprendizado e O SDK de IA Generativa do Google. 
 
 [Documentação SDK Gen IA Google](https://googleapis.github.io/python-genai/)
 
